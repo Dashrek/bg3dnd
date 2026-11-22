@@ -1814,7 +1814,7 @@
   <content contentuid="hf54abe92g0c59g3206g795cg205f29ea03b8" version="1">Trzymana przez ciebie broń zostaje nasycona mocą natury. Przez czas trwania czaru możesz używać swojej cechy bazowej czarów zamiast Siły w testach ataku i rzutach na obrażenia ataków wręcz tą bronią, a jej kość obrażeń zmienia się na k8. Jeśli atak zadaje obrażenia, są to obrażenia od mocy.&lt;br&gt;&lt;br&gt;Czar kończy się wcześniej, jeśli rzucisz go ponownie albo wypuścisz broń z dłoni.&lt;br&gt;&lt;br&gt;Ulepszenie sztuczki. Kość obrażeń zmienia się na k10 na 5. poziomie i na k12 na 10. poziomie.</content>
   <content contentuid="hf61e69c2g84a1g28cdg2869gee89659329d6" version="1">Trzymana przez ciebie maczuga albo kostur zostaje nasycony mocą natury. Przez czas trwania czaru możesz używać swojej cechy bazowej czarów zamiast Siły w testach ataku i rzutach na obrażenia ataków wręcz tą bronią, a jej kość obrażeń zmienia się na k8. Jeśli atak zadaje obrażenia, są to obrażenia od mocy.&lt;br&gt;&lt;br&gt;Czar kończy się wcześniej, jeśli rzucisz go ponownie albo wypuścisz broń z dłoni.&lt;br&gt;&lt;br&gt;Ulepszenie sztuczki. Kość obrażeń zmienia się na k10 na 5. poziomie i na k12 na 10. poziomie.</content>
   <content contentuid="h925aafd9gec3fg0bb7g12d0g081af9525fe1" version="1">Wymaga dostrojenia przez Paladyna</content>
-  <content contentuid="ha4f758dfga2beg1ec7gcda5g49ccf54aa751" version="4">Wymaga dostrojenia przez Paladyna.&lt;br&gt;&lt;br&gt;Kiedy trafisz nim Biesa lub Nieumarłego, istota to otrzymuje dodatkowe [1]. Kiedy trzymasz wyciągniętą broń, tworzy ona pochodzącą od ciebie emanację o długości [2]. Ty i wszystkie przyjazne ci istoty w Emanacji posiadacie &lt;LSTag Tooltip="Resistant"&gt;odporność&lt;/LSTag&gt; na obrażenia od czarów.</content>
+  <content contentuid="ha4f758dfga2beg1ec7gcda5g49ccf54aa751" version="4">Wymaga dostrojenia przez Paladyna.&lt;br&gt;&lt;br&gt;Kiedy trafisz nim Czarta lub Nieumarłego, istota to otrzymuje dodatkowe [1]. Kiedy trzymasz wyciągniętą broń, tworzy ona pochodzącą od ciebie emanację o długości [2]. Ty i wszystkie przyjazne ci istoty w Emanacji posiadacie &lt;LSTag Tooltip="Resistant"&gt;odporność&lt;/LSTag&gt; na obrażenia od czarów.</content>
   <content contentuid="h88763505g272bg1df5g5d45gfa5ef421bfec" version="3">Święty Mściciel</content>
   <content contentuid="h82e54036g01e7gb257g91ffg62632d82ab08" version="3">Święty mściciel był rzadkim rodzajem miecza, który został wykuty do walki ze złem we wszystkich jego postaciach. Byli bardzo cenieni przez paladynów z całych Królestw. Posiadali wielkie i wspaniałe moce, które w pełni urzeczywistniły się jedynie w rękach życzliwego świętego wojownika.&lt;br&gt;&lt;br&gt;Jeden z paladynów zasłynął z wypowiedzi, w której jego święty mściciel był jego „najlepszym i ostatnim przyjacielem w każdej sytuacji”.</content>
   <content contentuid="hae58b170g1a86g562dg9c15gc5a91fb03fe1" version="1">&lt;LSTag Tooltip="Resistant"&gt;Odporność&lt;/LSTag&gt; na obrażenia od czarów rzucanych w promieniu [1] od paladyna.</content>
@@ -2109,9 +2109,9 @@
   <content contentuid="hc58f0177g4e5fgb789g4272g3e57d5e733b0" version="2">Więź z nieumarłością przenika twoje ciało i zapewnia ci następujące korzyści.&lt;br&gt;&lt;br&gt;Nekrotyczna odporność. Masz odporność na obrażenia nekrotyczne. Podczas korzystania z Postaci Grozy zyskujesz niewrażliwość na obrażenia nekrotyczne.&lt;br&gt;&lt;br&gt;Bezbożne wskrzeszenie. Gdy twoje punkty wytrzymałości spadną do 0, ale nie zginiesz od razu, możesz sprawić, że twoje ciało wybuchnie śmiercionośną energią. Każda wybrana przez ciebie istota w emanacji o promieniu [2], której źródłem jesteś, wykonuje rzut obronny na Kondycję przeciwko twojemu ST obrony przed czarami. Przy niepowodzeniu otrzymuje [1], a przy powodzeniu — połowę tych obrażeń. Następnie twoje punkty wytrzymałości wynoszą dwukrotność twojego poziomu czarownika, a ty zyskujesz 1 poziom Wyczerpania.&lt;br&gt;&lt;br&gt;Po użyciu tej korzyści musisz ukończyć krótki albo długi odpoczynek, zanim użyjesz jej ponownie.</content>
   <content contentuid="hcaaac561g47fbgc64dga290gc1f58fa033fa" version="1">Astralna powódź</content>
   <content contentuid="h08797ed7gc753g8f41gd903g4ec54ed567d1" version="3">Kierujesz energię Morza Astralnego, uwalniając z siebie potok magii. Wybierz zimno albo światłość jako typ przekazywanej energii. Każda istota w stożku o długości [3] wykonuje rzut obronny na Zręczność. Przy niepowodzeniu otrzymuje [1] albo [2] (wybrany typ) oraz dodatkowy efekt zależny od tego typu:&lt;br&gt;&lt;br&gt;Zimno. Cel ma utrudnienie w następnym teście k20 wykonanym przed końcem twojej następnej tury.&lt;br&gt;Światłość. Cel otrzymuje stan oślepienia do końca twojej następnej tury.&lt;br&gt;&lt;br&gt;Przy powodzeniu cel otrzymuje tylko połowę obrażeń.</content>
-  <content contentuid="h7b203ccagf3bbgbc50ge697g2f7d6dd55d71" version="1">Dostępne klasy: Zaklinacz, Mag, Artylerzysta, Light Domain, Circle of the Land, Patron Czart</content>
+  <content contentuid="h7b203ccagf3bbgbc50ge697g2f7d6dd55d71" version="1">Dostępne klasy: Zaklinacz, Mag, Artylerzysta, Kapłan Domeny Światła, Circle of the Land, Patron Czart</content>
   <content contentuid="hab99ff93g3f23gd11egb0f9gbffa91781c6a" version="1">Dostępne klasy: Wynalazca, Zaklinacz, Mag, Domena astralna, Knowledge Domain, Domena Cienia, Patron Arcyfey</content>
-  <content contentuid="hc5d990c5g4bc9g584ag42c3g14e89f46c133" version="1">Dostępne klasy: Druid, Zaklinacz, Mag, Stwórz domenę, War Domain, Patron Czart</content>
+  <content contentuid="hc5d990c5g4bc9g584ag42c3g14e89f46c133" version="1">Dostępne klasy: Druid, Zaklinacz, Mag, Domena Rzemiosła, Domena Wojny, Patron Czart</content>
   <content contentuid="hea71fda5ge282g59e5g6655g9ddd810de96b" version="1">Dostępne klasy: Druid, Zaklinacz</content>
   <content contentuid="h3bfc9f9egcbcfgb28fg8505ga053e8195000" version="1">Dostępne klasy: Druid, Zaklinacz, Czarownik, Mag, Domena Apokalipsy, Death Domain, Domena grobowa</content>
   <content contentuid="hdc575017g0d8dgb342gd41bg10a869827f81" version="1">Dostępne klasy: Zaklinacz, Czarownik, Mag</content>
@@ -2127,7 +2127,7 @@
   <content contentuid="hc21389d1g0818gfd8cg1028g98e4b6dfab5f" version="1">Dostępne klasy: Zaklinacz, Czarownik, Mag, Alchemik, Circle of the Spores, Przysięga Szlachetnych Dżinów</content>
   <content contentuid="ha12ea06dg5003g6e60gc979g1f90ad6c1484" version="1">Dostępne klasy: Wynalazca, Bard, Kleryk, Mag</content>
   <content contentuid="h53ebe725g777bg732bgd58fg65c4f7d7f4a5" version="1">Dostępne klasy: Wynalazca, Zaklinacz, Mag, Krąg Niezłomnych, Przysięga Chwały, Oath of Vengeance</content>
-  <content contentuid="hb1711043gacb3g9782g2cf8g32a2ec0ff2ea" version="1">Dostępne klasy: Bard, Zaklinacz, Czarownik, Mag, War Domain, Krąg Morza</content>
+  <content contentuid="hb1711043gacb3g9782g2cf8g32a2ec0ff2ea" version="1">Dostępne klasy: Bard, Zaklinacz, Czarownik, Mag, Kapłan Domeny Wojny, Krąg Morza</content>
   <content contentuid="hdd2cf90fg0261g02b3gae25gfb176a817222" version="1">Dostępne klasy: Bard, Zaklinacz, Czarownik, Mag, Płatnerz, Trickery Domain</content>
   <content contentuid="h62899232g86b6gcbbag7509g512371a04a09" version="1">Dostępne klasy: Druid, Zaklinacz, Mag, Domena Apokalipsy, Tempest Domain</content>
   <content contentuid="h92ddaa49ge22bg88d7gdd71g0018b45092c4" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Domena Cienia, Domena Zmierzchu, Patron Arcyfey, Nieumarły Patron</content>
@@ -2145,9 +2145,9 @@
   <content contentuid="h490fc0dege26fg9f86gebe5ge9fe1504744d" version="1">Dostępne klasy: Zaklinacz, Czarownik, Mag, Death Domain, Domena grobowa</content>
   <content contentuid="h405a2a4dgacbdgeb6bg4dcfg074c58afd9b7" version="1">Dostępne klasy: Bard, Zaklinacz, Czarownik, Mag, Domena astralna, Trickery Domain</content>
   <content contentuid="h498bbe50g966fg2071g8171gfed451e31514" version="1">Dostępne klasy: Zaklinacz, Mag, Domena umysłu, Patron Wielki Przedwieczny</content>
-  <content contentuid="h265185b6gb7e4gbe1dgf258g5b026be55064" version="1">Dostępne klasy: Druid, Zaklinacz, Mag, Stwórz domenę, Light Domain, Patron Niebianin, Patron Czart</content>
+  <content contentuid="h265185b6gb7e4gbe1dgf258g5b026be55064" version="1">Dostępne klasy: Druid, Zaklinacz, Mag, Kapłan Domeny Rzemiosła, Kapłan Domeny Światła, Patron Niebianin, Patron Czart</content>
   <content contentuid="hfd8df497g28c9g3b75gc242gfa87f646de28" version="1">Dostępne klasy: Mag</content>
-  <content contentuid="h76da8d92g272dgb35ag7f49g0604c8aceb3f" version="1">Dostępne klasy: Wynalazca, Druid, Zaklinacz, Mag, Domena astralna, Stwórz domenę, Nature Domain</content>
+  <content contentuid="h76da8d92g272dgb35ag7f49g0604c8aceb3f" version="1">Dostępne klasy: Wynalazca, Druid, Zaklinacz, Mag, Domena astralna, Kapłan Domeny Rzemiosła, Nature Domain</content>
   <content contentuid="h43586658g7269g4ac9g84f4g92239e7e5113" version="1">Dostępne klasy: Druid, Zaklinacz, Mag, Domena Cienia</content>
   <content contentuid="h82fcd113g91bcg7a32g7db2g7a9bb77bc1a9" version="1">Dostępne klasy: Bard, Zaklinacz, Czarownik, Mag, Domena Apokalipsy, Domena umysłu, Domena Cienia, Trickery Domain, Przysięga Podboju, Gloom Stalker</content>
   <content contentuid="h0d09994cgb932g4c8bg28b6g6a5d21972441" version="1">Dostępne klasy: Zaklinacz, Mag, Płatnerz, Circle of the Land, Krąg Morza</content>
@@ -2541,7 +2541,7 @@
   <content contentuid="hd6ae92cdg60f9g47afg988fg10b392c19463" version="1">Dostępne klasy: Zaklinacz, Mag</content>
   <content contentuid="hf651f6cag4ca9g4fd5g83e7g9abff23ad945" version="1">Zwój żrącej kuli</content>
   <content contentuid="h87b9abdbg15d6g4106g87f2g377b6bf7332f" version="1">Zwój uderzenia stalowego wichru</content>
-  <content contentuid="h9b163dcdgf8c4g4da3ga132g95dbd23e830a" version="1">Dostępne klasy: Łowca, Mag, War Domain, Patron Hexblade'a</content>
+  <content contentuid="h9b163dcdgf8c4g4da3ga132g95dbd23e830a" version="1">Dostępne klasy: Łowca, Mag, Kapłan Domeny Wojny, Patron Hexblade'a</content>
   <content contentuid="hb1592619g4e2cg45c4ga433g8a0f0cae796b" version="1">Zwój szumu synaptycznego</content>
   <content contentuid="h6b8c9b31g95bbg4d4cga9a0gf66e4d6187f5" version="1">Dostępne klasy: Bard, Zaklinacz, Czarownik, Mag, Domena smoka, Knowledge Domain, Domena umysłu</content>
   <content contentuid="h679a5d3cgea36g8caagcfd7gebbdee910cc1" version="1">Ładowarka: Atak bez broni</content>
@@ -2700,18 +2700,18 @@
   <content contentuid="h0c4ae731g86b7g4cddg9448g2ec70d8c41e3" version="1">Dostępne klasy: Mag, Wynalazca</content>
   <content contentuid="h3caacbafgd256g4d2bga846g1e0e85d5bfd9" version="1">Dostępne klasy: Zaklinacz, Mag, Strażnik pustki</content>
   <content contentuid="ha43d0c84g7029g4bb4g91b9g40464ff2451d" version="1">Dostępne klasy: Druid, Zaklinacz, Mag, Alchemik</content>
-  <content contentuid="h0f476bcdg9eefg4e31ga725g8d2b8048b540" version="1">Dostępne klasy: Mag, Wynalazca, Stwórz domenę</content>
+  <content contentuid="h0f476bcdg9eefg4e31ga725g8d2b8048b540" version="1">Dostępne klasy: Mag, Wynalazca, Kapłan Domeny Rzemiosła</content>
   <content contentuid="he3ed5607gfd3bg4037g8cedg98e1474da744" version="1">Dostępne klasy: Druid, Łowca, Zaklinacz, Mag, Wynalazca, Domena smoka</content>
   <content contentuid="h157bc8b6g7bd3g42b6gb126g8844ae4e6897" version="1">Dostępne klasy: Mag, Alchemik</content>
   <content contentuid="hb93accaeg9237g4486g9fefg295f1501c7b3" version="1">Dostępne klasy: Zaklinacz, Mag, Alchemik, Death Domain, Circle of the Land, Nieumarły Patron</content>
   <content contentuid="h07c5d370g49d6g4466ga8deg9b86e982e5dd" version="1">Dostępne klasy: Bard, Druid, Zaklinacz, Czarownik, Mag, Trickery Domain, Wędrowiec Fey</content>
   <content contentuid="h5545fdeegaf71g4a87gb389g8b033c437233" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Płatnerz, Artylerzysta, Tempest Domain, Krąg Morza</content>
-  <content contentuid="ha6524e13ga393g46c6g81ccg8c0505a61fa6" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Wynalazca, Light Domain, Domena Zmierzchu, Przysięga Strażników</content>
+  <content contentuid="ha6524e13ga393g46c6g81ccg8c0505a61fa6" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Wynalazca, Kapłan Domeny Światła, Domena Zmierzchu, Przysięga Strażników</content>
   <content contentuid="hfdc5321bg8e80g4295gab40g23fc855ca270" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Domena Apokalipsy, Przysięga Szlachetnych Dżinów, Patron Arcyfey, Patron Wielki Przedwieczny, Nieumarły Patron</content>
   <content contentuid="h989195e0gd334g4d2fga48cg60ac72b1b1d9" version="1">Dostępne klasy: Zaklinacz, Mag, Circle of the Land</content>
   <content contentuid="hdf1a248bg7985g430egb25eg7767ee36487c" version="1">Dostępne klasy: Bard, Druid, Łowca, Nature Domain</content>
   <content contentuid="h976e404eg3fdeg4338gaf2cgf6ba2a469a74" version="1">Dostępne klasy: Kleryk, Paladyn, Magia mechanizmu, Patron Niebianin</content>
-  <content contentuid="hc6d3f124g2e9cg4554ga6eeg01dcc0ebadba" version="1">Dostępne klasy: Zaklinacz, Mag, Artylerzysta, Light Domain, Patron Czart</content>
+  <content contentuid="hc6d3f124g2e9cg4554ga6eeg01dcc0ebadba" version="1">Dostępne klasy: Zaklinacz, Mag, Artylerzysta, Kapłan Domeny Światła, Patron Czart</content>
   <content contentuid="he9329f83ga933g46dfgabd0g37d583feacd1" version="1">Dostępne klasy: Kleryk, Paladyn</content>
   <content contentuid="h61e1a792g9f16g4e16ga50dg0ee6c9c7ccb1" version="1">Dostępne klasy: Bard, Kleryk, Druid, Zaklinacz, Czarownik, Mag, Przysięga Podboju, Oath of Vengeance, Zimowy wędrowiec</content>
   <content contentuid="h54e64aa9g3189g44e2gbf65g0425fd20f75f" version="1">Dostępne klasy: Bard, Zaklinacz, Czarownik, Mag, Wynalazca, Domena astralna, Trickery Domain</content>
@@ -2726,11 +2726,11 @@
   <content contentuid="hd6dbd33fg0848g46bdg93d0ga604e88b0045" version="1">Dostępne klasy: Zaklinacz, Czarownik, Mag, Circle of the Land, Oath of Vengeance, Oath of the Ancients, Wędrowiec Fey, Gloom Stalker</content>
   <content contentuid="h57a34188gbe1dg4aecg9436g26c503c38ca5" version="1">Dostępne klasy: Zaklinacz, Mag, Wynalazca, Domena astralna, Circle of the Land</content>
   <content contentuid="ha069636bg3b39g4b50gae6fg37e461b68a60" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Wynalazca, Trickery Domain, Gloom Stalker</content>
-  <content contentuid="hc7c2f070g087bg4664ga8d0gf731f76c0a06" version="1">Dostępne klasy: Zaklinacz, Mag, Light Domain, Circle of the Land, Patron Czart</content>
+  <content contentuid="hc7c2f070g087bg4664ga8d0gf731f76c0a06" version="1">Dostępne klasy: Zaklinacz, Mag, Kapłan Domeny Światła, Circle of the Land, Patron Czart</content>
   <content contentuid="hda5eeb36gf99bg4cc8gb43egb740c1c24b98" version="1">Dostępne klasy: Zaklinacz, Czarownik, Mag, Knowledge Domain, Domena umysłu</content>
   <content contentuid="hea2bda2fgbe08g4ab1g8a22g7f50ccea400e" version="1">Dostępne klasy: Bard, Zaklinacz, Mag</content>
   <content contentuid="h0936d3bbg9d40g4b82g991bg63f298cdd927" version="1">Dostępne klasy: Zaklinacz, Czarownik, Mag, Domena Apokalipsy, Domena Cienia</content>
-  <content contentuid="h25ea32bcgf38dg464dg8a09g608fa6283272" version="1">Dostępne klasy: Paladyn, Łowca, Zaklinacz, Mag, Wynalazca, Stwórz domenę, War Domain, Patron Hexblade'a</content>
+  <content contentuid="h25ea32bcgf38dg464dg8a09g608fa6283272" version="1">Dostępne klasy: Paladyn, Łowca, Zaklinacz, Mag, Wynalazca, Kapłan Domeny Rzemiosła, Kapłan Domeny Wojny, Patron Hexblade'a</content>
   <content contentuid="h99cdb013gd519g46c8g8ee7g88ce569e971b" version="1">Dostępne klasy: Czarownik, Mag</content>
   <content contentuid="h956b9c5bgd323g4291gbf06gd8df0ae7f7de" version="1">Dostępne klasy: Czarownik, Mag, Death Domain, Domena grobowa</content>
   <content contentuid="he7c90888g22e0g4d75g85f4g768f561d6f30" version="1">Dostępne klasy: Zaklinacz, Mag, Domena smoka, Przysięga Szlachetnych Dżinów</content>
@@ -2939,7 +2939,7 @@
   <content contentuid="h240835ffg849dg4c2agb157g4665f8dc5787" version="1">Dostępne klasy: Łowca, Krąg Niezłomnych, Oath of the Ancients</content>
   <content contentuid="h4d2440a7g773eg4df5ga298ge47b7cb7545d" version="1">Zwój oplątania</content>
   <content contentuid="h74437106g3801g4e49gb67bge87de1f118c5" version="1">Zwój blasku faerie</content>
-  <content contentuid="h53a09d3agfa14g4382ga82bga385c31825d6" version="1">Dostępne klasy: Wynalazca, Bard, Druid, Light Domain, Domena Zmierzchu, Patron Arcyfey</content>
+  <content contentuid="h53a09d3agfa14g4382ga82bga385c31825d6" version="1">Dostępne klasy: Wynalazca, Bard, Druid, Kapłan Domeny Światła, Domena Zmierzchu, Patron Arcyfey</content>
   <content contentuid="h7ef4ab92ge90ag48bdgb4deg1e7f771f5319" version="1">Zwój pocisku wiodącego</content>
   <content contentuid="hef54eecfgdce9g4473gb994g4113b91775fb" version="1">Dostępne klasy: Kleryk, Przysięga Chwały, Magiczny ogień, Patron Niebianin</content>
   <content contentuid="h5271ce83g7c0fg4956gb2afg0a429f41a26e" version="1">Zwój gradu cierni</content>
@@ -2955,7 +2955,7 @@
   <content contentuid="he05c72e9g0761g4a5cgbe1bgfe115ce91c95" version="1">Zwój sanktuarium</content>
   <content contentuid="h6dab634bg7fcdg455bg97fag943f3d768fb1" version="1">Dostępne klasy: Wynalazca, Kleryk</content>
   <content contentuid="hf58661b8gab76g47ebg8450g07dbcd2e223e" version="1">Zwój palącego ugodzenia</content>
-  <content contentuid="hb5ca2a00g713ag4654g8663g5f27ac95a237" version="1">Dostępne klasy: Paladyn, Stwórz domenę</content>
+  <content contentuid="hb5ca2a00g713ag4654g8663g5f27ac95a237" version="1">Dostępne klasy: Paladyn, Kapłan Domeny Rzemiosła</content>
   <content contentuid="h68efba27gab0dg43f4ga260gea1789a83134" version="1">Zwój tarczy wiary</content>
   <content contentuid="h18d457f4g80ecg43acg829cg11afd73ec108" version="1">Zwój rozmawiania ze zwierzętami</content>
   <content contentuid="hf972a7c0ge2f1g4e13g84cbgb2eb21931d53" version="1">Dostępne klasy: Bard, Druid, Łowca, Czarownik, Nature Domain, Oath of the Ancients</content>
@@ -2970,7 +2970,7 @@
   <content contentuid="h728428ccg46b4g4d4fga3e5gbf83f178944e" version="1">Zwój fascynacji</content>
   <content contentuid="hb7b57624g2a86g4643gabd8g3c71b0683ff1" version="1">Dostępne klasy: Bard</content>
   <content contentuid="h804ae2f1g0930g4491g8763g4b06563c2821" version="1">Zwój rozgrzania metalu</content>
-  <content contentuid="hc7c754fag911ag47a7ga5beg7f98f8c469f8" version="1">Dostępne klasy: Wynalazca, Bard, Druid, Stwórz domenę</content>
+  <content contentuid="hc7c754fag911ag47a7ga5beg7f98f8c469f8" version="1">Dostępne klasy: Wynalazca, Bard, Druid, Kapłan Domeny Rzemiosła</content>
   <content contentuid="he504d141gc259g45f8gb80dg3c310b21a85b" version="1">Zwój mniejszego przywrócenia</content>
   <content contentuid="he10d9305g8cf6g4ccbgad7bgd2746ea46ca4" version="1">Zwój księżycowego promienia</content>
   <content contentuid="h250348d7ge71dg40a2ga944g6f665b8e18c0" version="1">Dostępne klasy: Druid, Domena Zmierzchu, Oath of the Ancients, Przysięga Strażników</content>
@@ -2995,11 +2995,11 @@
   <content contentuid="hbaf05e9cg8b9ag48dagb7eag7903cf5bc3c3" version="1">Zwój przywołania ognia zaporowego</content>
   <content contentuid="he94292e5gd3a9g44eegaaf6gdfc66d5bd1e2" version="1">Dostępne klasy: Łowca, Kowal bitewny, Patron Hexblade'a</content>
   <content contentuid="hb3a50517g8c9fg42b2g8757g2a419821af02" version="1">Zwój płaszcza krzyżowca</content>
-  <content contentuid="he0963b4bgda4eg4bafgb796g5b7ec6410ca1" version="1">Dostępne klasy: Paladyn, War Domain</content>
+  <content contentuid="he0963b4bgda4eg4bafgb796g5b7ec6410ca1" version="1">Dostępne klasy: Paladyn, Kapłan Domeny Wojny</content>
   <content contentuid="h5b3aa645gc718g46fcgb3b1g48cced477759" version="1">Zwój światła dnia</content>
   <content contentuid="h73580f96ga9bag489aga276gaa2200b19c22" version="1">Dostępne klasy: Kleryk, Druid, Paladyn, Łowca, Zaklinacz, Patron Niebianin</content>
   <content contentuid="haf04e176g4abeg4764gb773gf6644ec21fac" version="1">Zwój broni żywiołu</content>
-  <content contentuid="hd2abd846g45b3g427dgb7a8g08a2cd62544a" version="1">Dostępne klasy: Wynalazca, Druid, Paladyn, Łowca, Stwórz domenę</content>
+  <content contentuid="hd2abd846g45b3g427dgb7a8g08a2cd62544a" version="1">Dostępne klasy: Wynalazca, Druid, Paladyn, Łowca, Kapłan Domeny Rzemiosła</content>
   <content contentuid="hf37a3668g5485g462dgb8bfg24f366499655" version="1">Zwój głodu Hadara</content>
   <content contentuid="hdcedefeeg8769g45e9ga84bgac21bffb520f" version="1">Dostępne klasy: Czarownik, Domena Apokalipsy, Magia wynaturzenia, Czary Cienia</content>
   <content contentuid="h2d37feacg6e1dg4330ga540gcd5096a455e8" version="1">Zwój piorunostrzału</content>
@@ -3120,7 +3120,7 @@
   <content contentuid="h93fa867eg625fg359eg2832g67fe332a6780" version="1">Na początku każdej swojej tury możesz wydać 1 punkt zaklinania, aby zdobyć tymczasowe punkty wytrzymałości równe 1k6 plus twój poziom Zaklinacza (nie jest wymagane żadne działanie).</content>
   <content contentuid="h6aa73d7cg8370gbdf1gf6e2g1f60946189a8" version="1">Zyskaj tymczasowe punkty wytrzymałości równe 1k6 plus twój poziom Zaklinacza.</content>
   <content contentuid="he6de2090g4ec1g94fdg1c3fgd41c1e984607" version="1">Gdy zdolność Wrodzone Czarnoksięstwo jest aktywna, podczas ataku bronią, którą biegle się posługujesz, możesz używać modyfikatora Charyzmy zamiast Siły albo Zręczności w testach ataku i rzutach na obrażenia.</content>
-  <content contentuid="h695b4904g6705gae29gf403g5f760242cf0f" version="1">Stwórz domenę</content>
+  <content contentuid="h695b4904g6705gae29gf403g5f760242cf0f" version="1">Domena Rzemiosła</content>
   <content contentuid="h6aac3e2cg8b4fgd5c4g68edg918c3834ca82" version="1">Bogowie kuźni są patronami rzemieślników pracujących z metalem, od skromnego kowala, który utrzymuje wioskę w podkowach i pługach, po potężnego elfiego rzemieślnika, którego mithralowe strzały z diamentowymi grotami powaliły władców demonów. Bogowie kuźni uczą, że dzięki cierpliwości i ciężkiej pracy nawet najtrudniejszy metal można przekształcić z bryły rudy w pięknie kuty przedmiot. Kapłani tych bóstw szukają przedmiotów utraconych przez siły ciemności, wyzwalają kopalnie opanowane przez orki i odkrywają rzadkie i cudowne materiały niezbędne do tworzenia potężnych magicznych przedmiotów. Wyznawcy tych bogów są bardzo dumni ze swojej pracy i są gotowi wytwarzać i używać ciężkich zbroi oraz potężnej broni, aby ich chronić. Bóstwa tej domeny to Gond, Reorx, Onatar, Moradin, Hefajstos i Goibhniu.</content>
   <content contentuid="had29e8cegec4eg276ege02ag8c1fb424d18f" version="2">Wykuwaj czary domeny</content>
   <content contentuid="h7e23e8e3g27adg66cegbf84g1bde42d332f0" version="2">Błogosławieństwo Kuźni</content>
@@ -3459,7 +3459,7 @@
   <content contentuid="hc2270a33gb236gcf12g676bga9ec6586e785" version="1">Smoczy majestat: Strach</content>
   <content contentuid="ha5ac9c2egbb38gb14cg097ag8ecd055eca21" version="1">Smocze zionięcie (Błogosławieństwo smoka)</content>
   <content contentuid="hc79d025ag7d3dg2747g4484gd5d955fd41ce" version="1">Ochrona przed energią (Błogosławieństwo smoka)</content>
-  <content contentuid="hf2447855gf57fg407cga1d1gfc8287530812" version="1">Dostępne klasy: Wynalazca, Mag, Knowledge Domain, Light Domain, Draconic Bloodline</content>
+  <content contentuid="hf2447855gf57fg407cga1d1gfc8287530812" version="1">Dostępne klasy: Wynalazca, Mag, Knowledge Domain, Kapłan Domeny Światła, Draconic Bloodline</content>
   <content contentuid="hbd109ef3g9b77g45c3g3819g04b7311ec63c" version="1">Mag przywoływania</content>
   <content contentuid="hc7b7ab9ag8476g62b1g36d1g41c9e880470e" version="1">Mag przywoływania uważa odległość i materię za elastyczne wytyczne, a nie niezmienne prawa fizyki. Magowie przywoływania opanowują magię, która błyskawicznie przenosi istoty w przestrzeni i przywołuje je do walki w ich imieniu.</content>
   <content contentuid="hc41c5523g44d9gbf23g1e24gff79280418c3" version="1">Bezpieczne przeniesienie</content>
@@ -3930,10 +3930,10 @@
   <content contentuid="h2cf537a0g4078g4dd5g88f8g30360f18c3fd" version="1">Płomieniste cienie oplatają twoje ciało, sprawiając, że jesteś całkowicie zasłonięty przed innymi. Cienie zamieniają słabe światło w promieniu [1] od ciebie w ciemność, a jasne światło na tym samym obszarze – w słabe światło.&lt;br&gt;&lt;br&gt;Do końca trwania zaklęcia masz odporność na obrażenia od światłości. Ponadto za każdym razem, gdy istota znajdująca się w promieniu [1] od ciebie trafi cię atakiem, cienie smagają tę istotę, zadając jej [2] obrażeń.</content>
   <content contentuid="h6dc100c9gcc40g4359g86acgf997e3b65619" version="1">Jesteś całkowicie zasłonięty przed innymi, a cienie przyciemniają światło w promieniu [1] od ciebie. Masz odporność na obrażenia od światłości.&lt;br&gt;&lt;br&gt;Za każdym razem, gdy istota znajdująca się w promieniu [1] od ciebie trafi cię atakiem, otrzymuje [2] obrażeń.</content>
   <content contentuid="h06a6426dg0fbbg4936g82cfgac92c997849e" version="1">Zwój cienia Moil</content>
-  <content contentuid="h6524a14fgb4e7g4a5ega551g374da4579ce7" version="1">Biesie ciało</content>
+  <content contentuid="h6524a14fgb4e7g4a5ega551g374da4579ce7" version="1">Czarcie ciało</content>
   <content contentuid="h3a01f617gc5a9g4bcega8eag969b5e79915d" version="1">Dotykasz chętnej istoty, zamieniając jej skórę w czerwone łuski. Do końca trwania zaklęcia cel ma &lt;LSTag Tooltip="Resistant"&gt;odporność&lt;/LSTag&gt; na obrażenia od zimna, ognia i błyskawic, a także &lt;LSTag Tooltip="Immune"&gt;niewrażliwość&lt;/LSTag&gt; na obrażenia od trucizny.</content>
   <content contentuid="h95ec7f93gbff5g4bbag88abgd2031e9db5db" version="1">&lt;LSTag Tooltip="Resistant"&gt;Odporność&lt;/LSTag&gt; na obrażenia od zimna, ognia i błyskawic. &lt;LSTag Tooltip="Immune"&gt;Niewrażliwość&lt;/LSTag&gt; na obrażenia od trucizny.</content>
-  <content contentuid="h7117f9dfga2dcg4eb9g804dg962c1206ae24" version="1">Zwój biesiego ciała</content>
+  <content contentuid="h7117f9dfga2dcg4eb9g804dg962c1206ae24" version="1">Zwój czarciego ciała</content>
   <content contentuid="h5112de1agc373g4d69ga568ge091ad3d1426" version="1">Umysłowe więzienie</content>
   <content contentuid="h8146428bg034cg4ed6gb1c9g7e11cb11bd30" version="1">Uwięź istotę w iluzorycznej celi, którą tylko ona dostrzega. Cel otrzymuje [1] obrażeń i musi wykonać udany &lt;LSTag Tooltip="SavingThrow"&gt;rzut obronny&lt;/LSTag&gt; na Inteligencję, w przeciwnym razie zostaje uwięziony w &lt;LSTag Tooltip="MENTAL_PRISON" Type="Status"&gt;umysłowym więzieniu&lt;/LSTag&gt;. Istoty niewrażliwej na &lt;LSTag Tooltip="CHARMED" Type="Status"&gt;zauroczenie&lt;/LSTag&gt; nie można w ten sposób uwięzić.</content>
   <content contentuid="h1359d187g4052g4557g87b4g775b70e6a5e5" version="1">Dotknięta istota jest &lt;LSTag Tooltip="RESTRAINED" Type="Status"&gt;unieruchomiona&lt;/LSTag&gt;, wrogo nastawiona do wszystkich i błąka się bez celu. Gdy użyje akcji lub akcji dodatkowej, otrzymuje [1] obrażeń, a Umysłowe więzienie dobiega końca.</content>
@@ -4044,7 +4044,7 @@
   <content contentuid="hffabd299gfe84g474ag9d03g449b5d4dada3" version="1">Gdy osiągniesz określony poniżej poziom Łowcy, masz odtąd zawsze przygotowane wymienione zaklęcia: na 3. poziomie – &lt;LSTag Tooltip="Shout_DisguiseSelf" Type="Spell"&gt;Przebranie siebie&lt;/LSTag&gt;; na 5. poziomie – &lt;LSTag Tooltip="Target_MistyStep" Type="Spell"&gt;Krok przez mgłę&lt;/LSTag&gt;; na 9. poziomie – &lt;LSTag Tooltip="Zone_Fear" Type="Spell"&gt;Strach&lt;/LSTag&gt;.</content>
   <content contentuid="hc560b8bdg6498g45f5g99c8g32783a6b8ffd" version="1">Smocze zaklęcia</content>
   <content contentuid="h3e3d1058g7b36g4546gb76fg1d144390c9f5" version="1">Gdy osiągniesz określony poniżej poziom Zaklinacza, masz odtąd zawsze przygotowane wymienione zaklęcia: na 3. poziomie – &lt;LSTag Tooltip="Projectile_ChromaticOrb" Type="Spell"&gt;Chromatyczna kula&lt;/LSTag&gt;, &lt;LSTag Tooltip="Target_Command_Container" Type="Spell"&gt;Rozkaz&lt;/LSTag&gt;, &lt;LSTag Tooltip="Shout_AlterSelf" Type="Spell"&gt;Przemiana siebie&lt;/LSTag&gt; oraz &lt;LSTag Tooltip="Target_DragonsBreath" Type="Spell"&gt;Smoczy oddech&lt;/LSTag&gt;; na 5. poziomie – &lt;LSTag Tooltip="Zone_Fear" Type="Spell"&gt;Strach&lt;/LSTag&gt; oraz &lt;LSTag Tooltip="Target_Fly" Type="Spell"&gt;Lot&lt;/LSTag&gt;; na 7. poziomie – &lt;LSTag Tooltip="Target_ArcaneEye" Type="Spell"&gt;Tajemne oko&lt;/LSTag&gt; oraz &lt;LSTag Tooltip="Target_CharmMonster" Type="Spell"&gt;Zauroczenie potwora&lt;/LSTag&gt;; na 9. poziomie – &lt;LSTag Tooltip="Target_SummonDragon" Type="Spell"&gt;Przyzwanie smoka&lt;/LSTag&gt;.</content>
-  <content contentuid="h1f02a139gab47g4cc8g8d14g633ce35364d1" version="1">Zaklęcia Biesa</content>
+  <content contentuid="h1f02a139gab47g4cc8g8d14g633ce35364d1" version="1">Zaklęcia Czarta</content>
   <content contentuid="ha951a7b0g970fg40a8g83eag388f5b4c60c2" version="1">Gdy osiągniesz określony poniżej poziom Czarownika, masz odtąd zawsze przygotowane wymienione zaklęcia: na 3. poziomie – &lt;LSTag Tooltip="Zone_BurningHands" Type="Spell"&gt;Płonące dłonie&lt;/LSTag&gt;, &lt;LSTag Tooltip="Target_Command_Container" Type="Spell"&gt;Rozkaz&lt;/LSTag&gt;, &lt;LSTag Tooltip="Target_HoldPerson" Type="Spell"&gt;Unieruchomienie osoby&lt;/LSTag&gt; oraz &lt;LSTag Tooltip="Projectile_ScorchingRay" Type="Spell"&gt;Palący promień&lt;/LSTag&gt;; na 5. poziomie – &lt;LSTag Tooltip="Projectile_Fireball" Type="Spell"&gt;Kula ognia&lt;/LSTag&gt; oraz &lt;LSTag Tooltip="Target_StinkingCloud" Type="Spell"&gt;Śmierdząca chmura&lt;/LSTag&gt;; na 7. poziomie – &lt;LSTag Tooltip="Shout_FireShield" Type="Spell"&gt;Ognista tarcza&lt;/LSTag&gt; oraz &lt;LSTag Tooltip="Wall_WallOfFire" Type="Spell"&gt;Ściana ognia&lt;/LSTag&gt;; na 9. poziomie – &lt;LSTag Tooltip="Target_InsectPlague" Type="Spell"&gt;Plaga insektów&lt;/LSTag&gt;.</content>
   <content contentuid="h8f913200gda71g1268g82d3gdf0bf9b610f0" version="1">Wokół ciebie pojawia się nieruchoma, migocząca bariera w formie emanacji o promieniu [1] i utrzymuje się przez czas trwania zaklęcia.&lt;br&gt;&lt;br&gt;Istoty znajdujące się wewnątrz bariery automatycznie zdają rzuty obronne przeciwko zaklęciom, a obrażenia otrzymywane przez nie od zaklęć zostają zredukowane do 0.</content>
   <content contentuid="h98a83163ga425g45b8gb2d7gbec54b1c92c1" version="1">Automatycznie zdaje rzuty obronne przeciwko zaklęciom, a obrażenia otrzymywane od zaklęć zostają zredukowane do 0.</content>
