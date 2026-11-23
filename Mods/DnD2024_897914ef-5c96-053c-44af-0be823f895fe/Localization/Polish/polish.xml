@@ -2059,14 +2059,14 @@
   <content contentuid="h9191c661g0d83g945ag7a11gb64ae36d522c" version="2">Napięcie</content>
   <content contentuid="he90d9b36g7ae9g73fcg730cg7f11303ec293" version="2">To rozłupane ostrze, wykute ze stali dotkniętej burzą, trzeszczy od uwięzionych błyskawic, niosąc w swej lśniącej krawędzi furię burzy.</content>
   <content contentuid="h99e76e2eg9ad8ge1c9g7478g77f49aa7113e" version="1">Ta broń zapewnia premię +[1] do testów ataku, obrażeń, &lt;LSTag Tooltip="SpellDifficultyClass"&gt;ST rzutów przeciwko swoim czarom&lt;/LSTag&gt; oraz &lt;LSTag Tooltip="AttackRoll"&gt;testów ataku&lt;/LSTag&gt; czarami.</content>
-  <content contentuid="h0d9ac304ge050g65c4gadd7gb2db9a3a6388" version="1">Domena grobowa</content>
+  <content contentuid="h0d9ac304ge050g65c4gadd7gb2db9a3a6388" version="1">Domena Grobu</content>
   <content contentuid="hb6b0d9beg878egbb1fg173cgc579422a5d85" version="1">Domena Grobu zajmuje się granicą między życiem a śmiercią. Dla tych, którzy korzystają z mocy tej domeny, śmierć jest naturalną i nieuniknioną częścią wieloświata. Tacy Klerycy starają się niszczyć nieumarłych i duchy pasterskie.&lt;br&gt;&lt;br&gt;Magia tej domeny pozwala także tym Klerykom na pewien czas powstrzymać śmierć. Jest to jednak jedynie opóźnienie śmierci, a nie jej zaprzeczenie, gdyż grób zawsze będzie domagał się tego, co mu się należy.</content>
-  <content contentuid="h2cb62f22g7258gc3fcg2b1cgccb378b2f59e" version="2">Czary domeny grobowej</content>
+  <content contentuid="h2cb62f22g7258gc3fcg2b1cgccb378b2f59e" version="2">Czary domeny grobu</content>
   <content contentuid="he090be9bg8385g1850g97abg87aecc9a4555" version="1">Więź z tą boską domeną sprawia, że zawsze masz przygotowane określone czary. Po osiągnięciu poziomu Kleryka wskazanego w tabeli Czarów Domeny Grobu zawsze masz przygotowane wymienione w niej czary: na 3. poziomie — &lt;LSTag Type="Spell" Tooltip="Target_ProtectionFromEvilAndGood"&gt;Ochrona przed dobrem i złem&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Shout_FalseLife"&gt;Fałszywe życie&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Target_LesserRestoration"&gt;Mniejsze przywrócenie&lt;/LSTag&gt;, &lt;LSTag Type="Spell" Tooltip="Projectile_RayOfEnfeeblement"&gt;Promień osłabienia&lt;/LSTag&gt; i &lt;LSTag Type="Spell" Tooltip="Target_SpareTheDying"&gt;Powstrzymanie śmierci&lt;/LSTag&gt;; na 5. poziomie — &lt;LSTag Type="Spell" Tooltip="Teleportation_Revivify"&gt;Ożywienie&lt;/LSTag&gt; i &lt;LSTag Type="Spell" Tooltip="Target_VampiricTouch"&gt;Wampiryczny dotyk&lt;/LSTag&gt;; na 7. poziomie — &lt;LSTag Type="Spell" Tooltip="Target_Blight"&gt;Skaza&lt;/LSTag&gt; i &lt;LSTag Type="Spell" Tooltip="Target_DeathWard"&gt;Osłona przed śmiercią&lt;/LSTag&gt;; a na 9. poziomie — &lt;LSTag Type="Spell" Tooltip="Shout_DispelEvilAndGood"&gt;Rozproszenie dobra i zła&lt;/LSTag&gt; oraz &lt;LSTag Type="Spell" Tooltip="Target_CureWounds_Mass"&gt;Masowe leczenie ran&lt;/LSTag&gt;.</content>
   <content contentuid="h32554089g3cb1g5105g77b7g4afa486c46cf" version="2">Na 3. poziomie zawsze masz przygotowane Ochronę przed dobrem i złem, Fałszywe życie, Mniejsze przywrócenie, Promień osłabienia i Powstrzymanie śmierci; na 5. poziomie — Ożywienie i Wampiryczny dotyk; na 7. poziomie — Skazę i Osłonę przed śmiercią; a na 9. poziomie — Rozproszenie dobra i zła oraz Masowe leczenie ran.</content>
   <content contentuid="h9091248cg6df4gf72fg6f2ag70c577bab5c1" version="2">Krąg śmiertelności</content>
   <content contentuid="h3c269efagf9cbgfc7dga3bag5ea715ef1024" version="1">Potrafisz wpływać na równowagę między życiem a śmiercią, co zapewnia ci następujące korzyści.&lt;br&gt;&lt;br&gt;Zew śmierci. Raz na turę, gdy zadajesz obrażenia czarem albo trafieniem w teście ataku istocie, która nie ma wszystkich punktów wytrzymałości, otrzymuje ono dodatkowe [1]. Dodatkowe obrażenia wzrastają do 1k6 po osiągnięciu 11. poziomu kleryka.&lt;br&gt;&lt;br&gt;Powrót do życia. Możesz rzucić Powstrzymanie śmierci w ramach akcji dodatkowej.&lt;br&gt;&lt;br&gt;Ponadto, gdy czarem lub Aktem wiary przywracasz punkty wytrzymałości istocie mającemu 0 punktów wytrzymałości i normalnie musiałbyś wykonać w tym celu co najmniej jeden rzut kością, nie wykonujesz tych rzutów. Istota odzyskuje zamiast tego punkty wytrzymałości w liczbie równej twojemu poziomowi kleryka.</content>
-  <content contentuid="h794dc21ag8b55ga792g3b31g88988c279134" version="2">Droga do grobu</content>
+  <content contentuid="h794dc21ag8b55ga792g3b31g88988c279134" version="2">Ścieżka do Grobu</content>
   <content contentuid="hf7e85ad5gadc6g23b3ge9bdgb92b56e72159" version="2">W ramach akcji dodatkowej ukazujesz swój Święty Symbol i zużywasz jedno użycie Aktu wiary, aby przekląć jedną widoczną istotę w promieniu [3] od siebie do początku swojej następnej tury. Przeklęta istota ma utrudnienie w testach ataku i rzutach obronnych.&lt;br&gt;&lt;br&gt;Gdy przeklęty cel zostanie trafiony atakiem przez ciebie albo widocznego przez ciebie sojusznika, możesz przedwcześnie zakończyć klątwę (bez użycia akcji), aby zadać mu dodatkowe [1] albo [2] (wedle twojego wyboru).</content>
   <content contentuid="h345ec71fg8b14gc4a2ge4f4g2ae275d3a891" version="2">Strażnik u Bram Śmierci</content>
   <content contentuid="hb5512cccg4740g2f7dg76e9gd4d73b16a044" version="2">Gdy ty albo widoczna Zakrwawiona istota w promieniu [1] od ciebie zostaje trafiona testem ataku, możesz w ramach reakcji zmniejszyć obrażenia tego ataku o połowę (zaokrąglając w dół).</content>
@@ -2109,17 +2109,17 @@
   <content contentuid="hc58f0177g4e5fgb789g4272g3e57d5e733b0" version="2">Więź z nieumarłością przenika twoje ciało i zapewnia ci następujące korzyści.&lt;br&gt;&lt;br&gt;Nekrotyczna odporność. Masz odporność na obrażenia nekrotyczne. Podczas korzystania z Postaci Grozy zyskujesz niewrażliwość na obrażenia nekrotyczne.&lt;br&gt;&lt;br&gt;Bezbożne wskrzeszenie. Gdy twoje punkty wytrzymałości spadną do 0, ale nie zginiesz od razu, możesz sprawić, że twoje ciało wybuchnie śmiercionośną energią. Każda wybrana przez ciebie istota w emanacji o promieniu [2], której źródłem jesteś, wykonuje rzut obronny na Kondycję przeciwko twojemu ST obrony przed czarami. Przy niepowodzeniu otrzymuje [1], a przy powodzeniu — połowę tych obrażeń. Następnie twoje punkty wytrzymałości wynoszą dwukrotność twojego poziomu czarownika, a ty zyskujesz 1 poziom Wyczerpania.&lt;br&gt;&lt;br&gt;Po użyciu tej korzyści musisz ukończyć krótki albo długi odpoczynek, zanim użyjesz jej ponownie.</content>
   <content contentuid="hcaaac561g47fbgc64dga290gc1f58fa033fa" version="1">Astralna powódź</content>
   <content contentuid="h08797ed7gc753g8f41gd903g4ec54ed567d1" version="3">Kierujesz energię Morza Astralnego, uwalniając z siebie potok magii. Wybierz zimno albo światłość jako typ przekazywanej energii. Każda istota w stożku o długości [3] wykonuje rzut obronny na Zręczność. Przy niepowodzeniu otrzymuje [1] albo [2] (wybrany typ) oraz dodatkowy efekt zależny od tego typu:&lt;br&gt;&lt;br&gt;Zimno. Cel ma utrudnienie w następnym teście k20 wykonanym przed końcem twojej następnej tury.&lt;br&gt;Światłość. Cel otrzymuje stan oślepienia do końca twojej następnej tury.&lt;br&gt;&lt;br&gt;Przy powodzeniu cel otrzymuje tylko połowę obrażeń.</content>
-  <content contentuid="h7b203ccagf3bbgbc50ge697g2f7d6dd55d71" version="1">Dostępne klasy: Zaklinacz, Mag, Artylerzysta, Light Domain, Circle of the Land, Patron Czart</content>
-  <content contentuid="hab99ff93g3f23gd11egb0f9gbffa91781c6a" version="1">Dostępne klasy: Wynalazca, Zaklinacz, Mag, Domena astralna, Knowledge Domain, Domena Cienia, Patron Arcyfey</content>
+  <content contentuid="h7b203ccagf3bbgbc50ge697g2f7d6dd55d71" version="1">Dostępne klasy: Zaklinacz, Mag, Artylerzysta, Light Domain, Druid kręgu Ziemi, Patron Czart</content>
+  <content contentuid="hab99ff93g3f23gd11egb0f9gbffa91781c6a" version="1">Dostępne klasy: Wynalazca, Zaklinacz, Mag, Domena astralna, Kapłan Domeny Wiedzy, Domena Cienia, Patron Arcyfey</content>
   <content contentuid="hc5d990c5g4bc9g584ag42c3g14e89f46c133" version="1">Dostępne klasy: Druid, Zaklinacz, Mag, Stwórz domenę, War Domain, Patron Czart</content>
   <content contentuid="hea71fda5ge282g59e5g6655g9ddd810de96b" version="1">Dostępne klasy: Druid, Zaklinacz</content>
   <content contentuid="h3bfc9f9egcbcfgb28fg8505ga053e8195000" version="1">Dostępne klasy: Druid, Zaklinacz, Czarownik, Mag, Domena Apokalipsy, Death Domain, Domena grobowa</content>
   <content contentuid="hdc575017g0d8dgb342gd41bg10a869827f81" version="1">Dostępne klasy: Zaklinacz, Czarownik, Mag</content>
   <content contentuid="hb9aeb007g1897g208eg83f7g7edbb0f8ef8c" version="1">Dostępne klasy: Zaklinacz, Mag, Domena Apokalipsy, Death Domain, Circle of the Spores, Nieumarły Patron</content>
-  <content contentuid="h112db883g654cga8e4ga30cg28987b743aac" version="1">Dostępne klasy: Bard, Druid, Zaklinacz, Mag, Knowledge Domain, Domena umysłu, Trickery Domain, Patron Wielki Przedwieczny</content>
+  <content contentuid="h112db883g654cga8e4ga30cg28987b743aac" version="1">Dostępne klasy: Bard, Druid, Zaklinacz, Mag, Kapłan Domeny Wiedzy, Domena umysłu, Trickery Domain, Patron Wielki Przedwieczny</content>
   <content contentuid="h00d06463gd5ceg24d8gecefgfe155fa64a8a" version="1">Dostępne klasy: Druid, Mag, Czary Lodu</content>
   <content contentuid="h36b518acg95c4ge183g4e63gd3392cb3da45" version="1">Dostępne klasy: Druid, Mag</content>
-  <content contentuid="h0be24935g2030g85b3gc306g2bb41fc4e3ae" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Domena smoka, Knowledge Domain, Trickery Domain, Patron Arcyfey</content>
+  <content contentuid="h0be24935g2030g85b3gc306g2bb41fc4e3ae" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Domena smoka, Kapłan Domeny Wiedzy, Trickery Domain, Patron Arcyfey</content>
   <content contentuid="h5b9af6b6g0fb9g76bfge6acg31f03b6be9ab" version="1">Dostępne klasy: Bard, Zaklinacz, Czarownik, Mag</content>
   <content contentuid="h081d2ca7g938fg7b8cgabc2g3ebfd3f20918" version="2">Dostępne klasy: Bard, Kleryk, Druid, Mag</content>
   <content contentuid="h9ce29b2fg9512g42fcg0bb3g0130eac87437" version="1">Dostępne klasy: Druid, Zaklinacz, Mag</content>
@@ -2140,7 +2140,7 @@
   <content contentuid="h068c31d3g6f3aga38cg1f1bgb356fb37a648" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Trickery Domain, Patron Arcyfey</content>
   <content contentuid="h89e4c126g6369g3dfegb0bdg2f6aceb008b9" version="1">Dostępne klasy: Druid, Zaklinacz, Mag, Nature Domain, Tempest Domain</content>
   <content contentuid="h094ae749g82a5g27f5g5963g3c4b4de8ae2a" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Domena astralna</content>
-  <content contentuid="h96da94d7gf3f8g932bgd0d2g8c8fecea83ea" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Circle of the Land, Patron Czart</content>
+  <content contentuid="h96da94d7gf3f8g932bgd0d2g8c8fecea83ea" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Druid kręgu Ziemi, Patron Czart</content>
   <content contentuid="hcb7bb507ge7f5g0a9egc740gd2e42ec643dd" version="1">Dostępne klasy: Wynalazca, Druid, Łowca, Zaklinacz, Mag</content>
   <content contentuid="h490fc0dege26fg9f86gebe5ge9fe1504744d" version="1">Dostępne klasy: Zaklinacz, Czarownik, Mag, Death Domain, Domena grobowa</content>
   <content contentuid="h405a2a4dgacbdgeb6bg4dcfg074c58afd9b7" version="1">Dostępne klasy: Bard, Zaklinacz, Czarownik, Mag, Domena astralna, Trickery Domain</content>
@@ -2150,7 +2150,7 @@
   <content contentuid="h76da8d92g272dgb35ag7f49g0604c8aceb3f" version="1">Dostępne klasy: Wynalazca, Druid, Zaklinacz, Mag, Domena astralna, Stwórz domenę, Nature Domain</content>
   <content contentuid="h43586658g7269g4ac9g84f4g92239e7e5113" version="1">Dostępne klasy: Druid, Zaklinacz, Mag, Domena Cienia</content>
   <content contentuid="h82fcd113g91bcg7a32g7db2g7a9bb77bc1a9" version="1">Dostępne klasy: Bard, Zaklinacz, Czarownik, Mag, Domena Apokalipsy, Domena umysłu, Domena Cienia, Trickery Domain, Przysięga Podboju, Gloom Stalker</content>
-  <content contentuid="h0d09994cgb932g4c8bg28b6g6a5d21972441" version="1">Dostępne klasy: Zaklinacz, Mag, Płatnerz, Circle of the Land, Krąg Morza</content>
+  <content contentuid="h0d09994cgb932g4c8bg28b6g6a5d21972441" version="1">Dostępne klasy: Zaklinacz, Mag, Płatnerz, Druid kręgu Ziemi, Krąg Morza</content>
   <content contentuid="h41e92c9cgd1e2gd267g02c4geb8bae5ebc9c" version="1">Dostępne klasy: Kleryk, Druid, Zaklinacz, Mag</content>
   <content contentuid="h1e3fa5f7g9907g40dag9d6ag90042eff8573" version="2">Patron Hexblade'a</content>
   <content contentuid="h76260c1cg2fd0ga2b1gf453g7108d2706083" version="1">Twój pakt łączy cię ze świadomą magiczną bronią i przeklętymi siłami uwięzionymi w jej ostrzu. Może to być miecz noszony u boku czarownika albo osławiona broń przechowywana w odległym miejscu, która przenosi swoją moc przez wieloświat, by realizować przebiegłe plany. Tym, którzy godzą się spełniać jej kaprysy, ten nieodgadniony patron zapewnia moc nakładania złowrogich klątw, zadawania druzgocących ciosów i wzmacniania swoich dzierżycieli.</content>
@@ -2543,7 +2543,7 @@
   <content contentuid="h87b9abdbg15d6g4106g87f2g377b6bf7332f" version="1">Zwój uderzenia stalowego wichru</content>
   <content contentuid="h9b163dcdgf8c4g4da3ga132g95dbd23e830a" version="1">Dostępne klasy: Łowca, Mag, War Domain, Patron Hexblade'a</content>
   <content contentuid="hb1592619g4e2cg45c4ga433g8a0f0cae796b" version="1">Zwój szumu synaptycznego</content>
-  <content contentuid="h6b8c9b31g95bbg4d4cga9a0gf66e4d6187f5" version="1">Dostępne klasy: Bard, Zaklinacz, Czarownik, Mag, Domena smoka, Knowledge Domain, Domena umysłu</content>
+  <content contentuid="h6b8c9b31g95bbg4d4cga9a0gf66e4d6187f5" version="1">Dostępne klasy: Bard, Zaklinacz, Czarownik, Mag, Domena smoka, Kapłan Domeny Wiedzy, Domena umysłu</content>
   <content contentuid="h679a5d3cgea36g8caagcfd7gebbdee910cc1" version="1">Ładowarka: Atak bez broni</content>
   <content contentuid="h39e3d3b1gb37fgc87bg75c2g7b659b7eb280" version="1">Zadaj więcej obrażeń: szarżuj do przodu i walnij w pierwszego wroga na swojej drodze.</content>
   <content contentuid="he691a90cga2c9gccd3g42a4gd122e5addb8d" version="1">Przypływ dzikiej magii: 1</content>
@@ -2703,12 +2703,12 @@
   <content contentuid="h0f476bcdg9eefg4e31ga725g8d2b8048b540" version="1">Dostępne klasy: Mag, Wynalazca, Stwórz domenę</content>
   <content contentuid="he3ed5607gfd3bg4037g8cedg98e1474da744" version="1">Dostępne klasy: Druid, Łowca, Zaklinacz, Mag, Wynalazca, Domena smoka</content>
   <content contentuid="h157bc8b6g7bd3g42b6gb126g8844ae4e6897" version="1">Dostępne klasy: Mag, Alchemik</content>
-  <content contentuid="hb93accaeg9237g4486g9fefg295f1501c7b3" version="1">Dostępne klasy: Zaklinacz, Mag, Alchemik, Death Domain, Circle of the Land, Nieumarły Patron</content>
+  <content contentuid="hb93accaeg9237g4486g9fefg295f1501c7b3" version="1">Dostępne klasy: Zaklinacz, Mag, Alchemik, Death Domain, Druid kręgu Ziemi, Nieumarły Patron</content>
   <content contentuid="h07c5d370g49d6g4466ga8deg9b86e982e5dd" version="1">Dostępne klasy: Bard, Druid, Zaklinacz, Czarownik, Mag, Trickery Domain, Wędrowiec Fey</content>
   <content contentuid="h5545fdeegaf71g4a87gb389g8b033c437233" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Płatnerz, Artylerzysta, Tempest Domain, Krąg Morza</content>
   <content contentuid="ha6524e13ga393g46c6g81ccg8c0505a61fa6" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Wynalazca, Light Domain, Domena Zmierzchu, Przysięga Strażników</content>
   <content contentuid="hfdc5321bg8e80g4295gab40g23fc855ca270" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Domena Apokalipsy, Przysięga Szlachetnych Dżinów, Patron Arcyfey, Patron Wielki Przedwieczny, Nieumarły Patron</content>
-  <content contentuid="h989195e0gd334g4d2fga48cg60ac72b1b1d9" version="1">Dostępne klasy: Zaklinacz, Mag, Circle of the Land</content>
+  <content contentuid="h989195e0gd334g4d2fga48cg60ac72b1b1d9" version="1">Dostępne klasy: Zaklinacz, Mag, Druid kręgu Ziemi</content>
   <content contentuid="hdf1a248bg7985g430egb25eg7767ee36487c" version="1">Dostępne klasy: Bard, Druid, Łowca, Nature Domain</content>
   <content contentuid="h976e404eg3fdeg4338gaf2cgf6ba2a469a74" version="1">Dostępne klasy: Kleryk, Paladyn, Magia mechanizmu, Patron Niebianin</content>
   <content contentuid="hc6d3f124g2e9cg4554ga6eeg01dcc0ebadba" version="1">Dostępne klasy: Zaklinacz, Mag, Artylerzysta, Light Domain, Patron Czart</content>
@@ -2723,11 +2723,11 @@
   <content contentuid="hd0f8bef5g3744g473bgb6f7g416cd1b21776" version="1">Dostępne klasy: Bard, Czarownik, Mag</content>
   <content contentuid="h9f107cbeg704cg4efdg80f3gae22cf746ff8" version="1">Dostępne klasy: Zaklinacz, Mag, Płatnerz</content>
   <content contentuid="h4e563d34g5893g4564g93d3gbe30f8798c6d" version="1">Dostępne klasy: Bard, Druid, Zaklinacz, Mag, Płatnerz, Artylerzysta, Domena Apokalipsy, Tempest Domain</content>
-  <content contentuid="hd6dbd33fg0848g46bdg93d0ga604e88b0045" version="1">Dostępne klasy: Zaklinacz, Czarownik, Mag, Circle of the Land, Oath of Vengeance, Oath of the Ancients, Wędrowiec Fey, Gloom Stalker</content>
-  <content contentuid="h57a34188gbe1dg4aecg9436g26c503c38ca5" version="1">Dostępne klasy: Zaklinacz, Mag, Wynalazca, Domena astralna, Circle of the Land</content>
+  <content contentuid="hd6dbd33fg0848g46bdg93d0ga604e88b0045" version="1">Dostępne klasy: Zaklinacz, Czarownik, Mag, Druid kręgu Ziemi, Oath of Vengeance, Oath of the Ancients, Wędrowiec Fey, Gloom Stalker</content>
+  <content contentuid="h57a34188gbe1dg4aecg9436g26c503c38ca5" version="1">Dostępne klasy: Zaklinacz, Mag, Wynalazca, Domena astralna, Druid kręgu Ziemi</content>
   <content contentuid="ha069636bg3b39g4b50gae6fg37e461b68a60" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Wynalazca, Trickery Domain, Gloom Stalker</content>
-  <content contentuid="hc7c2f070g087bg4664ga8d0gf731f76c0a06" version="1">Dostępne klasy: Zaklinacz, Mag, Light Domain, Circle of the Land, Patron Czart</content>
-  <content contentuid="hda5eeb36gf99bg4cc8gb43egb740c1c24b98" version="1">Dostępne klasy: Zaklinacz, Czarownik, Mag, Knowledge Domain, Domena umysłu</content>
+  <content contentuid="hc7c2f070g087bg4664ga8d0gf731f76c0a06" version="1">Dostępne klasy: Zaklinacz, Mag, Light Domain, Druid kręgu Ziemi, Patron Czart</content>
+  <content contentuid="hda5eeb36gf99bg4cc8gb43egb740c1c24b98" version="1">Dostępne klasy: Zaklinacz, Czarownik, Mag, Kapłan Domeny Wiedzy, Domena umysłu</content>
   <content contentuid="hea2bda2fgbe08g4ab1g8a22g7f50ccea400e" version="1">Dostępne klasy: Bard, Zaklinacz, Mag</content>
   <content contentuid="h0936d3bbg9d40g4b82g991bg63f298cdd927" version="1">Dostępne klasy: Zaklinacz, Czarownik, Mag, Domena Apokalipsy, Domena Cienia</content>
   <content contentuid="h25ea32bcgf38dg464dg8a09g608fa6283272" version="1">Dostępne klasy: Paladyn, Łowca, Zaklinacz, Mag, Wynalazca, Stwórz domenę, War Domain, Patron Hexblade'a</content>
@@ -3459,7 +3459,7 @@
   <content contentuid="hc2270a33gb236gcf12g676bga9ec6586e785" version="1">Smoczy majestat: Strach</content>
   <content contentuid="ha5ac9c2egbb38gb14cg097ag8ecd055eca21" version="1">Smocze zionięcie (Błogosławieństwo smoka)</content>
   <content contentuid="hc79d025ag7d3dg2747g4484gd5d955fd41ce" version="1">Ochrona przed energią (Błogosławieństwo smoka)</content>
-  <content contentuid="hf2447855gf57fg407cga1d1gfc8287530812" version="1">Dostępne klasy: Wynalazca, Mag, Knowledge Domain, Light Domain, Draconic Bloodline</content>
+  <content contentuid="hf2447855gf57fg407cga1d1gfc8287530812" version="1">Dostępne klasy: Wynalazca, Mag, Kapłan Domeny Wiedzy, Light Domain, Draconic Bloodline</content>
   <content contentuid="hbd109ef3g9b77g45c3g3819g04b7311ec63c" version="1">Mag przywoływania</content>
   <content contentuid="hc7b7ab9ag8476g62b1g36d1g41c9e880470e" version="1">Mag przywoływania uważa odległość i materię za elastyczne wytyczne, a nie niezmienne prawa fizyki. Magowie przywoływania opanowują magię, która błyskawicznie przenosi istoty w przestrzeni i przywołuje je do walki w ich imieniu.</content>
   <content contentuid="hc41c5523g44d9gbf23g1e24gff79280418c3" version="1">Bezpieczne przeniesienie</content>
@@ -4154,7 +4154,7 @@
   <content contentuid="h2f964406gdb70g4d15ga3bagabb069030776" version="1">Broń dystansowa ma zasięg normalny i zasięg maksymalny. Zasięg podany przy broni i przy akcjach ataku bronią dystansową to zasięg maksymalny, równy 1,5-krotności zasięgu normalnego. Masz utrudnienie w rzutach na atak przeciwko celowi poza zasięgiem normalnym.</content>
   <content contentuid="heb3c8a4cg9817g4061gb04bg40117b3199f2" version="1">Dostępne klasy: Bard, Zaklinacz, Czarownik, Mag, Płatnerz, Przysięga Szlachetnych Dżinów</content>
   <content contentuid="h9d0d54b9gcddag4979g9a74gc11c3d1f8b6f" version="1">Dostępne klasy: Bard, Kleryk, Zaklinacz, Mag, Circle of the Spores, Nieumarły Patron</content>
-  <content contentuid="ha9fa668ege319g4366gb17dg5c9b03dd0ed9" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Knowledge Domain, Domena Zmierzchu, Circle of the Land, Patron Arcyfey</content>
+  <content contentuid="ha9fa668ege319g4366gb17dg5c9b03dd0ed9" version="1">Dostępne klasy: Bard, Zaklinacz, Mag, Kapłan Domeny Wiedzy, Domena Zmierzchu, Druid kręgu Ziemi, Patron Arcyfey</content>
   <content contentuid="hbca5c291g42c6g436dgb3d9g4a5d139b734f" version="1">Dostępne klasy: Druid, Łowca, Zaklinacz, Mag, Tempest Domain</content>
   <content contentuid="ha40ed69ag0551g5097g5d76g272963c576f1" version="1">Atak Dowódcy (Wręcz)</content>
   <content contentuid="h679b8ed8g5188g6efege018gb74b3c65aafc" version="1">Uderzenie dowódcy (dystansowy)</content>
